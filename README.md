@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! Soy Alan Alcantar 👋
 
 ###  <div align="justify"> Economista proactivo y autodidacta con sólida base analítica y pasión por la transformación de datos para la toma de decisiones. Mi formación me ha permitido ejecutar proyectos prácticos de investigación estadística y econometría, traduciendo datos complejos en hallazgos estratégicos y visualizaciones técnicas para resolver problemas socioeconómicos reales. </div>
