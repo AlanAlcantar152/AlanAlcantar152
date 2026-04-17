@@ -11,5 +11,5 @@
 
 ### 💼 Certificados
 * Power BI Data Analysis and Modeling by Santander Open Academy
-* A2capacitación | Excel | Power BI | MySQL | Python 
-
+* Excel Basic | Intermediate | Advance by Santander Open Academy
+* A2capacitación | Excel | Power BI | MySQL | Python
